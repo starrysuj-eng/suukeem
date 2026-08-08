@@ -1,0 +1,33 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css');
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: transparent;
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+               Arial, sans-serif;
+}
+.card {
+  width: 100%;
+  padding: 28px 30px;
+  background: transparent;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.row {
+  font-size: 22px;
+  line-height: 1;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+}
+.date {
+  color: #6E6B63;
+}
+.dday {
+  color: #222222;
+  margin-left: 8px;
+}
