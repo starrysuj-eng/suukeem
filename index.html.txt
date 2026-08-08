@@ -1,0 +1,12 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <div class="row">
+      <span class="date">2026.07.06</span><span class="dday" id="dday"></span>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
